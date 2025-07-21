@@ -1,19 +1,23 @@
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
+  <meta property="og:site_name" content="艷陽食記 Foodistinct">
   <!-- SEO 基本資訊 -->
   <meta name="description" content="艷陽帶你吃遍中壢咖哩美食！靜岡咖哩唐揚雞炸蝦起司加滿滿～">
   <meta name="keywords" content="靜岡咖哩, 中壢美食, 咖哩推薦, IG美食, 艷陽美食推薦">
   
-  <!-- Open Graph (FB、Line、Twitter、Discord 預覽用) -->
+  <!-- Open Graph 預覽用 -->
   <meta property="og:title" content="艷陽帶你吃靜岡咖哩！中壢超好吃唐揚雞炸蝦咖哩🍛">
   <meta property="og:description" content="唐揚雞超多汁、炸蝦超酥脆！起司滿滿不油不膩，艷陽實吃推薦❤️‍🔥">
-  <meta property="og:image" content="https://github.com/icecold77D/foodistinct_T2/S__100679685.jpg"> <!-- 替換成你的圖片網址（建議用封面圖） -->
-  <meta property="og:url" content="https://github.com/icecold77D/foodistinct_T2/_index.html">
+  <meta property="og:image" content="https://raw.githubusercontent.com/icecold77D/foodistinct_T2/main/S__100679685.jpg">
+  <meta property="og:url" content="https://icecold77d.github.io/foodistinct_T2/">
   <meta property="og:type" content="website">
+
 
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
   <title>靜岡咖哩介紹</title>
   <style>
     body {
@@ -148,6 +152,8 @@
       else if (startX - endX > 50) nextImage();
     });
   </script>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=icecold77D/foodistinct_T2" />
+<div style="padding: 16px; font-size: 0.9em;">
+  👀 訪問人數：<img src="https://visitor-badge.laobi.icu/badge?page_id=icecold77D/foodistinct_T2" alt="visitor count">
+</div>
 </body>
 </html>
